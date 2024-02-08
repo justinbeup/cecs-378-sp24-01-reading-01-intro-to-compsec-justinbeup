@@ -6,6 +6,7 @@ Answer the following questions from the chapter 1 reading ftyprom your textbook.
 
 1. Define the term *computer security*.
 
+
 2. What is the difference between passive and active security threats?
 
 3. Explain the difference between an attack surface and an attack tree.
