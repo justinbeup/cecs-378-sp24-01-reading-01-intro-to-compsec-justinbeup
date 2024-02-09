@@ -6,8 +6,11 @@ Answer the following questions from the chapter 1 reading ftyprom your textbook.
 
 1. Define the term *computer security*.
 
+According to the NIST Internal/Interagency Report NISTIR 7298, "*computer security* is defined as the measures, and controls that ensure confidentiality, integrity, and availability of information processed and stored by a computer, including hardware, software, firmware, information data, and telecommunications" - William Stallings, Lawrie Brown, February 7, 2024
 
 2. What is the difference between passive and active security threats?
+
+
 
 3. Explain the difference between an attack surface and an attack tree.
 
